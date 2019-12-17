@@ -1,0 +1,23 @@
+E-pharmacy :-  It is portal where we will add multiple medical stores and when we customer provide any medicine order then it will received to nearest medical store.
+
+
+Administrator :=   Approve Medical Store 
+
+                   View Medical Store
+
+
+                   View Order (daily,monthly,medical store )
+
+                   View Complain
+       
+                   logout
+
+
+
+Medical Store:-  Login ,Registeration,View Order,Manage Order,View Complain ,logout
+
+
+
+Customer:-   Login ,Registration ,upload prescription or type presecription ,complain,logout?
+
+
